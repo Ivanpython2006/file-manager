@@ -30,7 +30,7 @@
 
 ```bash
 
-git clone https://github.com/ваш-логин/file-manager.git
+git clone https://github.com/Ivanpython2006/file-manager.git
 
 cd file-manager
 
